@@ -8,8 +8,8 @@ This mini project is about making the Facebook Login page using Tailwind CSS
 <br>
 1. Fork this repository to make a copy into your GitHub account <br>
 2. Clone the forked repository into your local system and cd into your project directory <br> 
-3. In the project directory, using the terminal run the command `npm install` to get node modules <br>  
-4. To run the development server, run `npm run start` and view the page on your local server. <br>
+3. In the project directory, using the terminal run the command ```npm install``` to get node modules <br>  
+4. To run the development server, run ```npm run start``` and view the page on your local server. <br>
 
 # Useful Resources 
 
